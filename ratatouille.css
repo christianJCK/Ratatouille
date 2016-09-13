@@ -46,5 +46,35 @@ li div:hover{
 	background:#F50C1C;
 }
 
-/* Formulaire */
+/* Pied de page */
+footer
+{
+	background: black;
+	color: white;
+	border-top: 4px solid red;
+}
+
+#Contact
+{
+	text-align: left;
+	padding-top: 25px;
+}
+
+#Mentions_légales 
+{
+	text-align: center;
+	padding-top: 25px;
+}
+
+#nos_restaurants
+{
+	text-align: center;
+	padding-top: 25px;
+}
+
+#test
+{
+	max-height: 500px;
+	width: auto;
+}
 
