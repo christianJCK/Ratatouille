@@ -39,12 +39,12 @@ header {
 
 ul {
 	list-style-type: none;
-	color: white;
+	
 }
 li div:hover{
 	color:#fff;
 	background:#F50C1C;
 }
-li div {
 
-}
+/* Formulaire */
+
