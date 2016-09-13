@@ -1,7 +1,7 @@
 <header>
 	<div class="container">
 		<div id="image">
-			<img src="http://i.imgur.com/S7NTtHX.jpg">
+			<img id="test" src="images/ratatouille01.jpg">
 		<div class="page-header">
 			<h1>RATATOUILLE</h1>
 			<small>ça Touille</small>
