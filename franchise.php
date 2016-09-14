@@ -34,7 +34,7 @@
 
 					<div class="row">
 						<div class="col-xs-12 col-md-offset-1 col-md-10 col-md-offset-1">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec sagittis massa. Nulla facilisi. Cras id arcu lorem, et semper purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis vel enim mi, in lobortis sem. Vestibulum luctus elit eu libero ultrices id fermentum sem sagittis. Nulla imperdiet mauris sed sapien dignissim id aliquam est aliquam. Maecenas non odio ipsum, a elementum nisi. Mauris non erat eu erat placerat convallis. Mauris in pretium urna. Cras laoreet molestie odio, consequat consequat velit commodo eu. Integer vitae lectus ac nunc posuere pellentesque non at eros. Suspendisse non lectus lorem.</p>
+							<p>"Franchisé dans la chaîne de restauration Ratatouille à Toulouse depuis janvier 2014, Pierre Machin a converti le restaurant qu’il exploitait depuis 4 ans à l’enseigne Ratatouille. Le concept original, restaturant ouvrier, était bon mais pas assez finalisé. Il ne me permettait pas de faire aussi bien que mes voisins sous enseigne. En tant qu’indépendant isolé, on ne peut pas être à la fois bon restaurateur et bon commercial ! La conversion m’a coûté entre 50000 euros. » Et depuis le passage de mon restaurant sous l’enseigne Ratatouille, Pierre Machin a vu son chiffre d’affaires augmenté de manière exponentiel!!!"</p>
 
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec sagittis massa. Nulla facilisi. Cras id arcu lorem, et semper purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis vel enim mi, in lobortis sem. Vestibulum luctus elit eu libero ultrices id fermentum sem sagittis. Nulla imperdiet mauris sed sapien dignissim id aliquam est aliquam. Maecenas non odio ipsum, a elementum nisi. Mauris non erat eu erat placerat convallis. Mauris in pretium urna. Cras laoreet molestie odio, consequat consequat velit commodo eu. Integer vitae lectus ac nunc posuere pellentesque non at eros. Suspendisse non lectus lorem.</p>
 						</div>
@@ -153,11 +153,7 @@
 			</section>
 		</div>
 	</body>
-<<<<<<< HEAD
-
-=======
 	<?php include ("footer.php");?>
->>>>>>> david
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>

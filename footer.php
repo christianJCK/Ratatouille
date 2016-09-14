@@ -10,13 +10,6 @@
 					<li>E-mail: ratatouille.restaurant@wcs.com</li>
 					<li>La Loupe</li>
 				</ul>
-=======
-				<h4>Contact</h4>
-				<p>Ratatouille restaurant</p>
-				<p>17 rue Delandine</p>
-				<p>69003 LYON</p>
-				<p>Email: ratatouille.restaurant@gmail.com</p>
->>>>>>> david
 			</div>
 			<div id="Mentions_légales" class="col-xs-offset-1 col-xs-10 col-md-offset-1 col-md-2">
 				<h4>Mentions légales</h4>
