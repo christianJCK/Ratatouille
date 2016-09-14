@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<?php include("header.php"); ?>
-		<div class="container-fluid">
+			<div class="container-fluid">
 			<section>
 				<article>
 					<div class="row">
@@ -43,8 +43,15 @@
 			</section>
 		</div>
 		
+<<<<<<< HEAD
 	</body>
 	<?php include ("footer.php");?>
+=======
+>>>>>>> david
+	</body>
+
+	<?php include ("footer.php"); ?>
+>>>>>>> chris
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>

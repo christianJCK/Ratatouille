@@ -1,8 +1,8 @@
 <header>
 	<div class="container">
 		<div id="image">
-			<img src="http://i.imgur.com/S7NTtHX.jpg">
-		<div class="page-header">
+			<img src="https://s9.postimg.org/bh32tyigf/ratatouille01.jpg">
+		<div class="titre">
 			<h1>RATATOUILLE</h1>
 			<small>ça Touille</small>
 		</div>
