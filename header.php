@@ -1,7 +1,7 @@
 <header>
 	<div class="container">
 		<div id="image">
-			<img src="https://s9.postimg.org/bh32tyigf/ratatouille01.jpg">
+			<img src="https://s9.postimg.org/bh32tyigf/ratatouille01.jpg" />
 		<div class="titre">
 			<h1>RATATOUILLE</h1>
 			<small>ça Touille</small>
@@ -21,6 +21,6 @@
 				
 			</nav>
 			</div>
-			</div>				
+			</div>
 	</div>
 </header>
