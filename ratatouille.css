@@ -17,13 +17,22 @@ body {
 
 /* header */
 
-h1
+div h1
 {
-	font-family: 
+
+    font-family: 'Pacifico', cursive;
+    font-size: 400%;
+
+}
+
+.titre h1
+{
+	padding-left: 80px;
 }
 
 
-header {
+header
+{
 	text-align: center;
 }
 
@@ -41,8 +50,13 @@ header {
   	margin-top: -70px;
   	overflow: hidden;
   	padding: 0px;
-  	width: 100;
-
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	background-image: url("https://s9.postimg.org/bh32tyigf/ratatouille01.jpg");
+  	background-size: cover;
+  	background-attachment: fixed;
+  	background-position: center center;
 }
 
 .titre
@@ -83,7 +97,7 @@ nav ul {
 
 .chef
 {
-	width: 600px;
+	max-width: 600px;
 	height: auto;
 }
 
@@ -101,18 +115,22 @@ footer
 	border-top: 4px solid red;
 	margin-top: 20px;
 	padding-top: 20px;
+	text-align: center;
 }
 
-#contact
+#contact ul
 {
 	text-align: left;
 	padding-top: 25px;
+	padding-left: 150px;
+	list-style-type: none;
 }
 
 #Mentions_légales 
 {
 	text-align: center;
 	padding-top: 25px;
+
 }
 
 /#nos_restaurants
@@ -131,6 +149,7 @@ div a
 .bouton
 {
 	color: black;
+	margin-top: 25px;
 }
 
 
