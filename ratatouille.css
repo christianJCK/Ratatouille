@@ -113,3 +113,15 @@ footer
 	padding-top: 25px;
 }
 
+
+#test
+{
+	max-height: 500px;
+	width: auto;
+}
+
+/* Formulaire */
+
+input {
+	border: 2px solid red;
+}
