@@ -8,12 +8,12 @@
 	<body>
 		<?php include("header.php"); ?>
 			<div class="container-fluid">
-				<section>
-					<article>
-						<div class="row">
-							<div class="col-xs-12 col-md-offset-1">
-								<h1>Cuisine traditionnelle</h1>
-							</div>
+			<section>
+				<article>
+					<div class="row">
+						<div class="col-xs-12 col-md-offset-1">
+							<h1>Cuisine traditionnelle</h1>
+
 						</div>
 
 						<div class="row">
@@ -43,6 +43,12 @@
 				</section>
 			</div>
 		
+
+					</div>
+				</article>
+			</section>
+		</div>
+
 	</body>
 	<?php include ("footer.php"); ?>
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">

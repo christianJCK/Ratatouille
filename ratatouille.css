@@ -8,11 +8,25 @@
 }
 
 
+
+body {
+	margin: 0;
+}
+
+
+
 /* header */
+
+h1
+{
+	font-family: 
+}
+
 
 header {
 	text-align: center;
 }
+
 
 
 .container {	
@@ -60,6 +74,7 @@ nav ul {
     font-size: 17px;
 }
 
+
 nav ul li a:hover {
 	background-color: #555;
 }
@@ -67,9 +82,12 @@ nav ul li a:hover {
 nav a:hover {
 	color: red;
 	text-decoration: underline;
+
+.chef
+{
+	width: 600px;
+	height: auto;
 }
-
-
 
 
 
@@ -85,8 +103,9 @@ footer
 	border-top: 4px solid red;
 	margin-top: 20px;
 	padding-top: 20px;
+}
 
-#Contact
+#contact
 {
 	text-align: left;
 	padding-top: 25px;
@@ -104,12 +123,18 @@ footer
 	padding-top: 25px;
 }
 
-
-#test
+div a
 {
-	max-height: 500px;
-	width: auto;
+	text-decoration: none;
+	color: red;
+
 }
+
+.bouton
+{
+	color: black;
+}
+
 
 /* Formulaire */
 
