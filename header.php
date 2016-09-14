@@ -1,11 +1,11 @@
 <header>
+	<div id="image">
+	</div>
 	<div class="container-fluid">
-		<div id="image">
-			<img class="img-responsive" src="https://s9.postimg.org/bh32tyigf/ratatouille01.jpg">
-		</div>
+		
 		<div class="titre">
-			<h1>RATATOUILLE</h1>
-			<small>ça Touille</small>
+			<h1>Ratatouille</h1>
+			<h3>ça Touille</h3>
 		</div>
 	</div>
 	<div class="container-fluid">
