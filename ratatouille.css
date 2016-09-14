@@ -1,30 +1,47 @@
 /* Elements principaux de la page */
-* {
+
+/* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 
 }
-
-body {
-	margin: 0;
-}
+*/
 
 /* header */
+
 header {
 	text-align: center;
 }
 
 
-
+/* ne change rien a la structure
 .container {	
 	width: 900px;
 	margin: 0 auto;
+}
+*/
+
+#image
+{
+	height: 460px;
+  	margin-top: -70px;
+  	overflow: hidden;
+  	padding: 0px;
+  	width: 100;
+
+}
+
+.titre
+{
+	position: absolute;
+	top: 160px;
 }
 
 
 
 /* barre de navigation */
+
 .navbar {
   	position: relative;  
   	min-height: 50px;
@@ -46,13 +63,37 @@ li div:hover{
 	background:#F50C1C;
 }
 
+/*body */
+
+section {
+	margin-left: 185px;
+	margin-right: 170px;
+}
+
+@media only screen and (max-width: 800px)
+{
+	section{
+		margin-right: 15px;
+		margin-left: 15px;
+	}
+}
+
+
+
+
+
+
 /* Pied de page */
+
+
+
 footer
 {
-	background: black;
+	background: rgb(26, 26, 26);
 	color: white;
 	border-top: 4px solid red;
-}
+	margin-top: 20px;
+	padding-top: 20px;
 
 #Contact
 {
@@ -70,11 +111,5 @@ footer
 {
 	text-align: center;
 	padding-top: 25px;
-}
-
-#test
-{
-	max-height: 500px;
-	width: auto;
 }
 
