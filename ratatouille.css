@@ -78,3 +78,8 @@ footer
 	width: auto;
 }
 
+/* Formulaire */
+
+input {
+	border: 2px solid red;
+}
