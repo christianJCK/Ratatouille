@@ -29,7 +29,7 @@ header {
 
 
 
-.container {	
+.container{	
 	width: 900px;
 	margin: 0 auto;
 }
@@ -82,6 +82,7 @@ nav ul li a:hover {
 nav a:hover {
 	color: red;
 	text-decoration: underline;
+}
 
 .chef
 {
@@ -117,7 +118,7 @@ footer
 	padding-top: 25px;
 }
 
-#nos_restaurants
+/#nos_restaurants
 {
 	text-align: center;
 	padding-top: 25px;
@@ -136,8 +137,3 @@ div a
 }
 
 
-/* Formulaire */
-
-input {
-	border: 2px solid red;
-}
