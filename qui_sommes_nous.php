@@ -19,7 +19,7 @@
 					</div>
 					<div class="row">
 					<div class="col-md-5 col-md-offset-1">
-						<img class="img-responsive" src="https://s15.postimg.org/3oxte9m6z/chef_damien2.jpg" class="chef" alt="chef" title="Badass Chef" />
+						<img class="img-responsive" src="https://s18.postimg.org/ct9k00suh/chef_damien2.jpg" class="chef" alt="chef" title="Badass Chef" />
 					</div>
 						<div class="col-xs-12 col-md-5">
 							<p><b>Créée en 2014,</b> Damien et Laurent on fixé pour objectif de proposer aux clients et aux entreprises un nouveau concept axé sur une restauration alliant fraîcheur et saveurs.<br />
