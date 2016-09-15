@@ -28,7 +28,6 @@
 							</ul>
 					</div>
 				</div>
->>>>>>> david
 			</div>
 		</div>
 	</footer>
