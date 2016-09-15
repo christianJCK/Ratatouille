@@ -19,7 +19,7 @@
 					</div>
 					<div class="row">
 					<div class="col-md-5 col-md-offset-1">
-						<img class="img-responsive" src="https://s9.postimg.org/4mqati6xr/chef.jpg" class="chef" alt="chef" title="Badass Chef" />
+						<img class="img-responsive" src="https://s15.postimg.org/3oxte9m6z/chef_damien2.jpg" class="chef" alt="chef" title="Badass Chef" />
 					</div>
 						<div class="col-xs-12 col-md-5">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec sagittis massa. Nulla facilisi. Cras id arcu lorem, et semper purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis vel enim mi, in lobortis sem. Vestibulum luctus elit eu libero ultrices id fermentum sem sagittis. Nulla imperdiet mauris sed sapien dignissim id aliquam est aliquam. Maecenas non odio ipsum, a elementum nisi. Mauris non erat eu erat placerat convallis. Mauris in pretium urna. Cras laoreet molestie odio, consequat consequat velit commodo eu. Integer vitae lectus ac nunc posuere pellentesque non at eros. Suspendisse non lectus lorem.</p>

@@ -31,14 +31,8 @@ div h1
 }
 
 
-header
-{
-	text-align: center;
-}
-
-
-
-.container{	
+.container
+{	
 	width: 900px;
 	margin: 0 auto;
 }
@@ -59,12 +53,32 @@ header
   	background-position: center center;
 }
 
-.titre
+#logo
 {
 	position: absolute;
-	top: 160px;
+	top: 70px;
+	padding-left: 80px;
+	text-align: center;
 }
 
+#logo img
+{
+	height: 150px;
+	width: auto;
+	border: 20px;
+	padding: auto;
+}
+
+@media only screen and (max-width: 400px) {
+
+   #logo {
+   	font-size: 7px; }
+   #logo img {
+   	height: 100px;
+	width: auto;
+   }
+
+}
 
 
 /* barre de navigation */
@@ -120,9 +134,9 @@ footer
 
 #contact ul
 {
-	text-align: left;
-	padding-top: 25px;
-	padding-left: 150px;
+	width: 100%;
+    padding: 10px;
+	margin: auto;
 	list-style-type: none;
 }
 
@@ -133,10 +147,11 @@ footer
 
 }
 
-/#nos_restaurants
+#nos_restaurants
 {
 	text-align: center;
-	padding-top: 25px;
+	color: red;
+	
 }
 
 div a

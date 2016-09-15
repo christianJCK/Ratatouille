@@ -12,7 +12,7 @@
 				<a href="mentions.php" class="mentions">Mentions légales</a>
 					<p>Tout droit réservés Ratatouille 2016</p>
 			</div>
-			<div id="nos_restaurants" class="col-md-4 col-xs-12 centered">		
+			<div id="nos_restaurants" class="col-md-4 col-xs-12 centered">
 				<select name="Restaurants" class="bouton">
 					<option>Lyon</option>
 					<option>Orléans</option>
@@ -22,6 +22,7 @@
 					<option>Chartres</option>
 					<option>Fontainebleau</option>
 				</select>
+				<p>Nos restaurants</p>
 			</div>
 		</div>
 	</footer>

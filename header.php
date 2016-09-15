@@ -3,14 +3,10 @@
 	<div id="image">
 	</div>
 	<div class="container-fluid">
-
-		
-
-		
-
-		<div class="titre">
+		<div id="logo">
+			<a href="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif"><img src="https://s21.postimg.org/d18g3ca07/Ratatouille_logo.gif" alt="Logo ratatouille" /></a>
 			<h1>Ratatouille</h1>
-			<h3>ça Touille</h3>
+			<p>ça Touille</p>
 		</div>
 	</div>
 	<div class="container-fluid">
