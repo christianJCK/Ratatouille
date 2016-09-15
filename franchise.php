@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<link rel="stylesheet" href="ratatouille.css" />
+		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 		<link rel="stylesheet" href="ratatouille.css" />
 		<title>Ratatouille - Devenir Franchisé</title>
 	</head>
@@ -28,21 +28,24 @@
 							</p>
 						</div>
 					</div>
+					<hr class="style18">
 					<div class="row">
 						<div class="col-xs-12 col-md-offset-1">
 							<h1>Témoignages</h1>
 						</div>
 					</div>
 
+					<br>
 					<div class="row">
 						<div class="col-xs-12 col-md-offset-1 col-md-10 col-md-offset-1">
 							<p>"Franchisé dans la chaîne de restauration Ratatouille à Toulouse depuis janvier 2014, Pierre Machin a converti le restaurant qu’il exploitait depuis 4 ans à l’enseigne Ratatouille. Le concept original, restaturant ouvrier, était bon mais pas assez finalisé. Il ne me permettait pas de faire aussi bien que mes voisins sous enseigne. En tant qu’indépendant isolé, on ne peut pas être à la fois bon restaurateur et bon commercial ! La conversion m’a coûté entre 50000 euros. » Et depuis le passage de mon restaurant sous l’enseigne Ratatouille, Pierre Machin a vu son chiffre d’affaires augmenté de manière exponentiel!!!"</p>
 
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec sagittis massa. Nulla facilisi. Cras id arcu lorem, et semper purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis vel enim mi, in lobortis sem. Vestibulum luctus elit eu libero ultrices id fermentum sem sagittis. Nulla imperdiet mauris sed sapien dignissim id aliquam est aliquam. Maecenas non odio ipsum, a elementum nisi. Mauris non erat eu erat placerat convallis. Mauris in pretium urna. Cras laoreet molestie odio, consequat consequat velit commodo eu. Integer vitae lectus ac nunc posuere pellentesque non at eros. Suspendisse non lectus lorem.</p>
+							<p>Nous avons choisi L'enseigne Ratatouille car cela permet de bénéficier d’un savoir-faire, d’un soutien et d’une structure. Le concept nous a plu pour son cadre chaleureux et convivial, ses produits qui nous correspondent. La franchise Ratatouille est très humaine, il y a quelqu’un à tout instant et une réponse à chaque question. Nous avons ouvert notre premier restaurant Ratatouille à La Loupe. Nous sommes très heureux de voir comme le réseau grandit. Isabelle et stéhane Trucmuche.</p>
 						</div>
 					</div>
 				</article>
 				<article>
+				<hr class="style18">
 					<div class="row">
 						<div class="col-xs-12 col-md-offset-1">
 							<h1>Formulaire</h1>

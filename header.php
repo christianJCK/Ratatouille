@@ -1,19 +1,13 @@
 
 <header>
-	<div id="image">
-	</div>
+	<div id="image"></div>
 	<div class="container-fluid">
-
-		
-
-		
-
 		<div class="titre">
 			<h1>Ratatouille</h1>
-			<h3>ça Touille</h3>
+			<h5>ça Touille</h5>
 		</div>
 	</div>
-	<div class="container-fluid">
+	<div class="container-fluid" id="ct1">
 		<nav class="navbar navbar-default">  		
         	<div class="navbar-header">
 		      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mynavbar" aria-expanded="false">
