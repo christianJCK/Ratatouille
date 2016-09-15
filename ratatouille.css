@@ -17,12 +17,15 @@ body {
 
 /* header */
 
-div h1
-{
+div h1 {
 
     font-family: 'Pacifico', cursive;
     font-size: 400%;
+}
+div h5 {
 
+    font-family: 'Pacifico', cursive;
+    font-size: 300%;
 }
 
 .titre h1
@@ -83,19 +86,14 @@ div h1
 
 /* barre de navigation */
 
-
-nav ul {
-	list-style-type: none;
-	
-	padding: 0;
-	overflow: hidden;
-		
+#ct1 {
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
- #mynavbar {
+#mynavbar {
  	margin: 0;
 	color: #f2f2f2;
-    text-align: center;
     text-decoration: none;
     transition: 0.3s;
     font-size: 17px;
@@ -103,11 +101,14 @@ nav ul {
 }
 
 
+
 #mynavbar a:hover {
 	background-color: #555;
 	color: red;
 	text-decoration: underline;
 }
+
+/* phto page qui sommes nous */
 
 .chef
 {
@@ -167,4 +168,48 @@ div a
 	margin-top: 25px;
 }
 
+/*horizontale rules*/
+
+hr.style18 { 
+  height: 30px;
+  width: 80vw; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px;
+  margin: 20px auto; 
+} 
+hr.style18:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+
+/* Carousel */
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 55%;
+    left: 0;
+    width: 100%;
+    font-weight: bold;
+    font-size: 3vw;
+}
+
+/* mention légales */
+
+#fil ul {
+	padding-left: 20px;
+}
 

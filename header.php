@@ -1,7 +1,6 @@
 
 <header>
-	<div id="image">
-	</div>
+	<div id="image"></div>
 	<div class="container-fluid">
 		<div id="logo">
 			<a href="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif"><img src="https://s21.postimg.org/d18g3ca07/Ratatouille_logo.gif" alt="Logo ratatouille" /></a>
@@ -9,7 +8,7 @@
 			<p>ça Touille</p>
 		</div>
 	</div>
-	<div class="container-fluid">
+	<div class="container-fluid" id="ct1">
 		<nav class="navbar navbar-default">  		
         	<div class="navbar-header">
 		      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mynavbar" aria-expanded="false">
