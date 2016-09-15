@@ -1,28 +1,34 @@
 	<footer>
-		<div class="row">
-			<div id="contact" class="col-md-4 col-xs-12 centered">
-				<ul>
-					<li><a class="contact" href="mailto:ratatouille.restaurant@wcs.com">Contact</a></li>
-					<li>17 Rue Delandine</li>
-					<li>69003 LYON</li>
-					<li>ratatouille.restaurant@wcs.com</li>
-				</ul>
-			</div>
-			<div id="Mentions_légales" class="col-md-4 col-xs-12">
-				<a href="mentions.php" class="mentions">Mentions légales</a>
-					<p>Tout droit réservés Ratatouille 2016</p>
-			</div>
-			<div id="nos_restaurants" class="col-md-4 col-xs-12 centered">
-				<select name="Restaurants" class="bouton">
-					<option>Lyon</option>
-					<option>Orléans</option>
-					<option>La loupe</option>
-					<option>Toulouse</option>
-					<option>Bordeaux</option>
-					<option>Chartres</option>
-					<option>Fontainebleau</option>
-				</select>
-				<p>Nos restaurants</p>
+		<div class="container-fluid">
+			<div class="row">
+				<div id="contact" class="col-md-4 col-xs-12 centered">
+					<ul>
+						<li><a class="contact" href="contact.php">Contact</a></li>
+						<li>17 Rue Delandine</li>
+						<li>69003 LYON</li>
+						<li>ratatouille.restaurant@wcs.com</li>
+					</ul>
+				</div>
+				<div id="Mentions_légales" class="col-md-4 col-xs-12">
+					<a href="mentions.php" class="mentions">Mentions légales</a>
+						<p>Tout droit réservés Ratatouille 2016</p>
+				</div>
+				<div id="nos_restaurants" class="col-md-4 col-xs-12">
+					<div class="btn-group dropup" id="cl2">    				
+	    				<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nos restaurants        				
+	    				</button>
+	  						<ul class="dropdown-menu">
+							    <li><a href="restaurants.php#C1">Lyon</a></li>
+							    <li><a href="restaurants.php#C2">Orléans</a></li>
+							    <li><a href="restaurants.php#C3">La loupe</a></li>
+							    <li><a href="restaurants.php#C4">Toulouse</a></li>
+							    <li><a href="restaurants.php#C5">Bordeaux</a></li>
+							    <li><a href="restaurants.php#C6">Chartres</a></li>
+							    <li><a href="restaurants.php#C7">Fontainebleau</a></li>
+							</ul>
+					</div>
+				</div>
+>>>>>>> david
 			</div>
 		</div>
 	</footer>

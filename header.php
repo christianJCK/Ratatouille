@@ -5,7 +5,7 @@
 		<div id="logo">
 			<a href="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif"><img src="https://s21.postimg.org/d18g3ca07/Ratatouille_logo.gif" alt="Logo ratatouille" /></a>
 			<h1>Ratatouille</h1>
-			<p>ça touille</p>
+			<h5>ça touille</h5>
 		</div>
 	</div>
 	<div class="container-fluid" id="ct1">

@@ -30,6 +30,9 @@
 							Pourquoi enlevez vos chaussures chez nous ?
 							Tout simplement parce que quand les pieds sont libres, les papilles aussi ! Hé oui !</p>
 						</div>
+						<div class="col-xs-12 col-md-6">
+							<img class="img-responsive" src="http://i.imgur.com/c6aARTY.jpg?2">
+						</div>
 					</div>
 				</article>
 				<hr class="style18">

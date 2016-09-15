@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html>
-	<meta charset="utf-8" />
-	<link rel="stylesheet" href="ratatouille.css" />
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+		<link rel="stylesheet" href="ratatouille.css" />
+		<title>Nos restaurants Ratatouille</title>
+	</head>
+	<?php include("header.php"); ?>
+	<body>
+		<p><a name="C1"></a></p>
+		<p><a name="C2"></a></p>
+		<p><a name="C3"></a></p>
+		<p><a name="C4"></a></p>
+		<p><a name="C5"></a></p>
+		<p><a name="C6"></a></p>
+		<p><a name="C7"></a></p>
+	</body>
+	<?php include ("footer.php"); ?>
 
-		<?php include("header.php"); ?>
-		<body>
-				<h1>Nos Restaurants</h1>
-				
-		</body>
-		<?php include("footer.php"); ?>
-
-	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-</html>
