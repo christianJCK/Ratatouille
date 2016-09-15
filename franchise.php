@@ -40,7 +40,7 @@
 						<div class="col-xs-12 col-md-offset-1 col-md-1 col-md-offset-1">
 							<img src="http://i.imgur.com/OK9KunEs.jpg?1">
 						</div>
-						<div class="col-xs-12 col-md-9">
+						<div class="col-xs-12 col-md-9" id="ph1">
 							<p>"Franchisé dans la chaîne de restauration Ratatouille à Toulouse depuis janvier 2014, Pierre Machin a converti le restaurant qu’il exploitait depuis 4 ans à l’enseigne Ratatouille. Le concept original, restaturant ouvrier, était bon mais pas assez finalisé. Il ne me permettait pas de faire aussi bien que mes voisins sous enseigne. En tant qu’indépendant isolé, on ne peut pas être à la fois bon restaurateur et bon commercial ! La conversion m’a coûté entre 50000 euros. » Et depuis le passage de mon restaurant sous l’enseigne Ratatouille, Pierre Machin a vu son chiffre d’affaires augmenté de manière exponentiel!!!"</p>
 						</div>
 						<br>
