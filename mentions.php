@@ -12,11 +12,13 @@
 			<div class="conteneur-fluid">
 				<div class="row">
 					<div class="col-xs-12 col-md-offset-1">
-						<h1>Mention Légales</h1>
+						<h1>Mentions Légales</h1>
 					</div>
 				</div>
+			</div>
+			<div class="conteneur-fluid">
 				<div class="row">
-					<div class="col-xs-12 col-md-offset-1 col-md-10">
+					<div class="col-xs-12 col-md-offset-1 col-md-10 col-md-offset-1">
 						<p>RATATOUILLE<br>
 						SARL AU CAPITAL DE 1 000 000 euros<br>
 						RCS Lyon B 123 456 789<br>
