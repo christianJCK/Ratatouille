@@ -45,6 +45,7 @@
 						</div>
 						<br>
 					</div>
+					<div class="row">
 						<div class="col-xs-12 col-md-offset-1 col-md-1 col-md-offset-1">
 							<img src="http://i.imgur.com/pUII1ths.jpg">
 						</div>
