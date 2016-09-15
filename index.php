@@ -14,22 +14,31 @@
 				<article>
 					<div class="row">
 						<div class="col-xs-12 col-md-offset-1">
-							<h1>Cuisine traditionnelle</h1>
+							<h1>Notre Cuisine traditionnelle</h1>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12 col-md-offset-1 col-md-4 col-md-offset-1">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec sagittis massa. Nulla facilisi. Cras id arcu lorem, et semper purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis vel enim mi, in lobortis sem. Vestibulum luctus elit eu libero ultrices id fermentum sem sagittis. Nulla imperdiet mauris sed sapien dignissim id aliquam est aliquam. Maecenas non odio ipsum, a elementum nisi. Mauris non erat eu erat placerat convallis. Mauris in pretium urna. Cras laoreet molestie odio, consequat consequat velit commodo eu. Integer vitae lectus ac nunc posuere pellentesque non at eros. Suspendisse non lectus lorem.</p>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec sagittis massa. Nulla facilisi. Cras id arcu lorem, et semper purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis vel enim mi, in lobortis sem. Vestibulum luctus elit eu libero ultrices id fermentum sem sagittis. Nulla imperdiet mauris sed sapien dignissim id aliquam est aliquam. Maecenas non odio ipsum, a elementum nisi. Mauris non erat eu erat placerat convallis. Mauris in pretium urna. Cras laoreet molestie odio, consequat consequat velit commodo eu. Integer vitae lectus ac nunc posuere pellentesque non at eros. Suspendisse non lectus lorem.</p>
+						<div class="col-xs-12 col-md-offset-1 col-md-6 col-md-offset-1">
+							<p><b>Chez Ratatouille, ça touille pour votre plus grand plaisir !</b><br />
+							On vous propose des plats de cuisine traditionnelle confectionnés à base d'ingrédients sélectionnés avec le plus grand soin et le plus « wildement » possible
+							Nous sommes des spécialistes de la cuisine traditionnelle, voilà pourquoi nous veillons à vous offrir des plats parmi les meilleurs avec un goût unique et original.<br />
+							Vous n'aurez qu'à jeter un coup d’œil sur notre menu, vous y trouverez sûrement des plats qui mettent l'eau à la bouche.
+							Professionnel de la cuisine traditionnelle, notre restaurant possède une salle principale de 50 places, deux terrasses et une salle indépendante qui peut être utilisée dans différentes occasions telles que : repas de fin d'année, salle de séminaire, anniversaires ,etc.</p>
 						</div>
-						<div class="col-xs-12 col-md-6">
-							<img class="img-responsive" src="http://i.imgur.com/c6aARTY.jpg?2">
+						<div class="col-xs-12 col-md-4">
+							<img class="img-responsive" src="http://i.imgur.com/c6aARTY.jpg?4">
 						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-md-offset-1 col-md-10 col-md-offset-1">
+							<p>En plus de cela, nous avons déjà ouvert plusieurs restaurants dans les principales villes Françaises (ainsi que dans des villes de moindres importances mais tout aussi Françaises!)
+							Chez nous, vous venez déchaussez, les pieds sous la table et savourer un plat à la sauce « Wild » !
+							Pourquoi enlevez vos chaussures chez nous ?
+							Tout simplement parce que quand les pieds sont libres, les papilles aussi ! Hé oui !</p>
+						</div>						
 					</div>
 				</article>
 				<hr class="style18">
-				<article>
 					<div class="row">
 						<div class="col-xs-12 col-md-offset-1">
 							<h1>Prochaines ouvertures</h1>
