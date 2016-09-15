@@ -11,6 +11,7 @@
 
 body {
 	margin: 0;
+
 }
 
 
@@ -98,6 +99,7 @@ div h5 {
     transition: 0.3s;
     font-size: 17px;
     background-color: #333;
+    text-align: center;
 }
 
 
@@ -155,6 +157,9 @@ footer
 	
 }
 
+#cl2 {
+	margin-top: 20px;
+}
 div a
 {
 	text-decoration: none;
@@ -162,11 +167,12 @@ div a
 
 }
 
-.bouton
-{
-	color: black;
-	margin-top: 25px;
+.btn-primary {
+	background-color: red;
+	position: relative;
 }
+
+
 
 /*horizontale rules*/
 
@@ -207,6 +213,9 @@ hr.style18:before {
     font-size: 3vw;
 }
 
+.carousel-control.left {
+	background-image: linear-gradient(to right to, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.5) 100%)
+}
 /* mention légales */
 
 #fil ul {
