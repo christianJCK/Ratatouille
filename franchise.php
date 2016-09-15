@@ -40,7 +40,7 @@
 						<div class="col-xs-12 col-md-offset-1 col-md-10 col-md-offset-1">
 							<p>"Franchisé dans la chaîne de restauration Ratatouille à Toulouse depuis janvier 2014, Pierre Machin a converti le restaurant qu’il exploitait depuis 4 ans à l’enseigne Ratatouille. Le concept original, restaturant ouvrier, était bon mais pas assez finalisé. Il ne me permettait pas de faire aussi bien que mes voisins sous enseigne. En tant qu’indépendant isolé, on ne peut pas être à la fois bon restaurateur et bon commercial ! La conversion m’a coûté entre 50000 euros. » Et depuis le passage de mon restaurant sous l’enseigne Ratatouille, Pierre Machin a vu son chiffre d’affaires augmenté de manière exponentiel!!!"</p>
 
-							<p>Nous avons choisi L'enseigne Ratatouille car cela permet de bénéficier d’un savoir-faire, d’un soutien et d’une structure. Le concept nous a plu pour son cadre chaleureux et convivial, ses produits qui nous correspondent. La franchise Ratatouille est très humaine, il y a quelqu’un à tout instant et une réponse à chaque question. Nous avons ouvert notre premier restaurant Ratatouille à La Loupe. Nous sommes très heureux de voir comme le réseau grandit. Isabelle et stéhane Trucmuche.</p>
+							<p>Nous avons choisi L'enseigne Ratatouille car cela permet de bénéficier d’un savoir-faire, d’un soutien et d’une structure. Le concept nous a plu pour son cadre chaleureux et convivial, ses produits qui nous correspondent. La franchise Ratatouille est très humaine, il y a quelqu’un à tout instant et une réponse à chaque question. Nous avons ouvert notre premier restaurant Ratatouille à La Loupe. Nous sommes très heureux de voir comme le réseau grandit. Isabelle et stéphane Trucmuche.</p>
 						</div>
 					</div>
 				</article>

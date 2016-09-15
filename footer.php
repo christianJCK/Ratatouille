@@ -2,7 +2,7 @@
 		<div class="row">
 			<div id="contact" class="col-md-4 col-xs-12 centered">
 				<ul>
-					<li><a class="contact" href="contact.php">Contact</a></li>
+					<li><a class="contact" href="mailto:ratatouille.restaurant@wcs.com">Contact</a></li>
 					<li>17 Rue Delandine</li>
 					<li>69003 LYON</li>
 					<li>ratatouille.restaurant@wcs.com</li>

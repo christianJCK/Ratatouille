@@ -12,6 +12,7 @@
 			<div class="row">
 				<div class="col-xs-12 col-md-offset-1">
 					<h1>Contact</h1>
+					<p>Under Construction! Content coming soon.</p>
 				</div>
 			</div>
 		</body>
