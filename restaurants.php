@@ -9,6 +9,7 @@
 	</head>
 	<?php include("header.php"); ?>
 	<body>
+		<p>/!\ En cours de construction /!\</p>
 		<p><a name="C1"></a></p>
 		<p><a name="C2"></a></p>
 		<p><a name="C3"></a></p>
@@ -17,5 +18,5 @@
 		<p><a name="C6"></a></p>
 		<p><a name="C7"></a></p>
 	</body>
-	<?php include ("footer.php"); ?>
+<?php include ("footer.php"); ?>
 
