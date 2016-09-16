@@ -64,7 +64,7 @@
 						<form>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="Nom">Nom:</label>
 										<input type="Nom" class="form-control" id="Nom">
 									</div>
@@ -73,7 +73,7 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="Prénom">Prénom:</label>
 										<input type="Prénom" class="form-control" id="Prénom">
 									</div>
@@ -82,7 +82,7 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="Adresse">Adresse:</label>
 										<input type="Adresse" class="form-control" id="Adresse">
 									</div>
@@ -91,7 +91,7 @@
 							</div>																	
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">					
+									<div class="col-xs-12 col-md-offset-3 col-md-6">					
 										<label for="Code_postal">Code postal:</label>
 										<input type="Code_postal" class="form-control" id="Code_postal">
 									</div>
@@ -100,7 +100,7 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">											
+									<div class="col-xs-12 col-md-offset-3 col-md-6">											
 										<label for="Ville">Ville:</label>
 										<input type="Ville" class="form-control" id="Ville">
 									</div>
@@ -109,7 +109,7 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="Téléphone">Téléphone:</label>
 										<input type="Téléphone" class="form-control" id="Téléphone">
 									</div>
@@ -118,7 +118,7 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="E-mail">E-mail:</label>
 										<input type="E-mail" class="form-control" id="E-mail">
 									</div>
@@ -127,7 +127,7 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="Secteur">Secteur géographique souhaité:</label>
 										<input type="Secteur" class="form-control" id="Secteur">
 									</div>
@@ -136,7 +136,7 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="sel1">Apport personnel</label>
 										<select class="form-control" id="sel1">
 											<option>moins de 5000€</option>
@@ -151,14 +151,14 @@
 							</div>
 							<div class="row">
 								<div class="form-group">
-									<div class="col-xs-12 col-md-offset-1 col-md-6">
+									<div class="col-xs-12 col-md-offset-3 col-md-6">
 										<label for="comment">Votre projet:</label>
 										<textarea class="form-control" rows="5" id="comment"></textarea>
 									</div>
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-offset-1 col-md-2">
+								<div class="col-md-offset-3 col-md-2">
 									<button type="submit" class="btn btn-default">ENVOYER</button>
 								</div>
 								<div class="col-md-9"></div>
